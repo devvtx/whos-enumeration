@@ -1,1 +1,2 @@
-This script allows you to retrieve WHOIS information for any domain using the Python whois library. The WHOIS data includes details such as registration dates, expiration dates, registrar, DNS servers, and more.
+
+This Python script retrieves WHOIS information for any domain using the `whois` library.
